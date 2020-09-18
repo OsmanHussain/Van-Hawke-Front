@@ -73,7 +73,7 @@
 
 .story-pullquote__chapter__title {
     position: relative;
-    font-family: "Reckless", aria, sans-serif;
+    font-family: "Reckless";
     font-feature-settings: "liga";
     font-size: 40px;
     line-height: 135%;
